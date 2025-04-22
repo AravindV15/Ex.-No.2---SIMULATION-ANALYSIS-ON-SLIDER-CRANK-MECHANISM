@@ -51,8 +51,8 @@
 
 
 
-### Name:
-### Register Number: 
+### Name:ARAVIND G
+### Register Number: 212224240014
 
 ## RESULT:
 ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
